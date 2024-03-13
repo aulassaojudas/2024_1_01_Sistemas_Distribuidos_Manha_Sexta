@@ -14,3 +14,4 @@ Conteúdo:
   
 7. Além dos programas, você encontrará documentos auxiliares, link para tutoriais e recursos de aprendizado que complementam os conceitos discutidos durante as aulas. Estes recursos estão disponíveis para ajudá-lo a consolidar seu conhecimento e explorar mais a fundo os temas abordados.
 
+8. O link para o material de aula (PPTS) e material complementar é (https://1drv.ms/f/s!Ak9ktbfEZ59YpLlsC6FYiHM0UehAEg?e=mJSbuS)
