@@ -1,7 +1,6 @@
-## aula 03
+## aula 03 - relacionado com o PPT 03
 
 Nesta aula discutimos discutimos o padrão arquiterual REST , suas mensagens de status e JSON e instalamos o UUID 
-relaciona-se com o ptt 03
 
 UUID, sigla para Identificador Universal Único, é uma string de caracteres destinada a identificar unicamente recursos ou entidades em programação. Utilizados em desenvolvimento de software, os UUIDs são empregados para identificar de forma única registros em bancos de dados, objetos em sistemas operacionais, e mensagens em aplicações de mensageria, entre outros usos, através de algoritmos que asseguram sua unicidade, até mesmo em ambientes distribuídos.
 
