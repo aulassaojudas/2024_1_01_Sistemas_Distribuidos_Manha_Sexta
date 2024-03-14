@@ -1,6 +1,6 @@
 # Repositório de Programas para Sistemas Distribuídos
 
-## Descrição (2024-1 Turma segunda-feira manhã)
+## Descrição
 Bem-vindo ao repositório oficial das aulas de Sistemas Distribuídos. Aqui você encontrará uma coleção de programas desenvolvidos durante nossas sessões, abrangendo uma variedade de conceitos e tecnologias essenciais para compreender e implementar sistemas distribuídos robustos e escaláveis.
 
 Conteúdo:
@@ -12,7 +12,10 @@ Conteúdo:
   
 5. O desenvolvimento utiliza a biblioteca React com js e ts.
   
-7. Além dos programas, você encontrará documentos auxiliares, link para tutoriais e recursos de aprendizado que complementam os conceitos discutidos durante as aulas. Estes recursos estão disponíveis para ajudá-lo a consolidar seu conhecimento e explorar mais a fundo os temas abordados.
+6. Além dos programas, você encontrará documentos auxiliares, link para tutoriais e recursos de aprendizado que complementam os conceitos discutidos durante as aulas. Estes recursos estão disponíveis para ajudá-lo a consolidar seu conhecimento e explorar mais a fundo os temas abordados.
 
-8. O link para o material de aula (PPTS) e material complementar é (https://1drv.ms/f/s!Ak9ktbfEZ59YpLlsC6FYiHM0UehAEg?e=mJSbuS)
+7. O link para o material de aula (PPTS) e material complementar é (https://1drv.ms/f/s!Ak9ktbfEZ59YpLlsC6FYiHM0UehAEg?e=mJSbuS)
 
+8. Link para o trello que contém o projeto exemplo que será implementado em aula (https://trello.com/b/SZFcSOZQ/sistema-de-login-em-mem%C3%B3ria)
+
+9. Link com formulário que deve ser preenchido com os links do github (do seu projeto) e trello (do seu projeto) (https://forms.gle/j6TX6rPYQ5fCVh8N9)
