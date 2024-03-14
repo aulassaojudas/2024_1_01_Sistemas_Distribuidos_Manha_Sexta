@@ -14,7 +14,7 @@ app.get("/user/:id", (req, res) => {
     res.send("este é um endpoint que recebe um parametro " + id ); 
 });
 
-/*você pode passar quantos paremetros quiser, desde que siga a sintaxe abaixo */
+/*você pode passar quantos parametros quiser, desde que siga a sintaxe abaixo */
 app.get("/user/:id/:nome", (req, res) => {
     const {id, nome } = req.params;
     res.send("este é um endpoint que recebe dois parametros " + id + " -> " + nome);

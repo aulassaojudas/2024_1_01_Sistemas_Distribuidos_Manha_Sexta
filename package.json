@@ -1,0 +1,17 @@
+{
+  "name": "sdms2024_1",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao repositório oficial das aulas de Sistemas Distribuídos (2024-1 Turma segunda-feira manhã)! Aqui você encontrará uma coleção de programas desenvolvidos durante nossas sessões, abrangendo uma variedade de conceitos e tecnologias essenciais para compreender e implementar sistemas distribuídos robustos e escaláveis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  }
+}
