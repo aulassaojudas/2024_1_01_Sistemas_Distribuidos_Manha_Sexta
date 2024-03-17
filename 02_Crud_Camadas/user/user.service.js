@@ -17,14 +17,14 @@ const users = [
 ];
 
 class UserService {
-  findOne(id) {
-    return users.find((user) => user.id === id);
-  }
-
   findAll() {
     return users.map((user) => new UserDTO(user));
   }
 
+  findOne(id) {
+    return users.find((user) => user.id === id);
+  }
+  
   create(id, email, password) {
     id = uuidv4();
     const newUser = new User(id, email, password);

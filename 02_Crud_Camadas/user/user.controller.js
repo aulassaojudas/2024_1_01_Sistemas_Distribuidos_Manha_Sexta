@@ -30,7 +30,6 @@ class UserController {
         const { email, password } = req.body;
         const updatedUser = userService.update(id, email, password);
         if(!updatedUser) return res.status(404).send('User not found');
-        console.log("jose");
         res.status(200).json(updatedUser);
     }
 
